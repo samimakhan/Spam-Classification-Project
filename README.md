@@ -7,5 +7,6 @@ We employed Upsampling and Cross-val in our project, and built the following mod
 * Naive Bayes model with cross-validation, using CountVectorizer
 * Naive Bayes model with cross-validation, using Tf-idf Vectorizer
 * Decision Tree models wirth imbalanced dataset, cross-val, and upsampled data.
+
 We reported the f-measure and accuracy scores of each model as part of our findings in our powerpoint presentation, which is uploaded as well. 
 
