@@ -1,2 +1,2 @@
 # spam-classifier
-This contains my spam classification project for the Intro to AI class.
+My spam classification project for the Intro to AI class.
