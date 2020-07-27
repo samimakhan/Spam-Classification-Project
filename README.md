@@ -6,7 +6,7 @@ We employed Upsampling and Cross-val in our project, and built the following mod
 * Naive Bayes model with imbalanced dataset, using Tf-idf Vectorizer
 * Naive Bayes model with cross-validation, using CountVectorizer
 * Naive Bayes model with cross-validation, using Tf-idf Vectorizer
-* Decision Tree models wirth imbalanced dataset, cross-val, and upsampled data.
+* Decision Tree models with imbalanced dataset, cross-val, and upsampled data. (6 models in total)
 
 For EDA, we created the following:
 * Histogram of most commonly occuring words in the ham and spam messages
